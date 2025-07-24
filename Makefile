@@ -1,6 +1,6 @@
 # Variables
 BACKEND_DIR=alpr-backend
-FRONTEND_DIR=smart-alpr-frontend
+FRONTEND_DIR=smart-alpr-setup-buddy-09
 DOCKER_COMPOSE=docker-compose
 
 # Pull repositories (if not already cloned)
