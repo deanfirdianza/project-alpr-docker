@@ -5,8 +5,8 @@ DOCKER_COMPOSE=docker-compose
 
 # Pull repositories (if not already cloned)
 pull:
-	git clone https://github.com/your-username/alpr-backend.git
-	git clone https://github.com/your-username/smart-alpr-frontend.git
+	git clone git@github.com:deanfirdianza/alpr-backend.git
+	git clone git@github.com:deanfirdianza/smart-alpr-setup-buddy-09.git
 
 # Build and start the services using Docker Compose
 up:
